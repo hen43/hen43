@@ -1,6 +1,3 @@
-### Wassup? ###
-**How's it goin?**
-
 I'm a beginner programmer but I'm always learning more. 
 
 **Things I Know:**
