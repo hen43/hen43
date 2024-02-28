@@ -1,16 +1,15 @@
-### Hi there 👋
+### Wassup? ###
+How's it goin?
 
-<!--
-**hen43/hen43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner programmer but I'm always learning more. 
 
-Here are some ideas to get you started:
+Things I Know:
+  -HTML
+  -CSS
+  -Javascript
+  -React
+  -Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I'm trying to learn:
+  -Java
+  -C++
