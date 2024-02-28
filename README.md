@@ -10,6 +10,7 @@ I'm a beginner programmer but I'm always learning more.
 **Things I'm trying to learn:**
   -Java
   -C++
+  -Arduino
 
 **Things in the future:**
 	-C# (Unity)
