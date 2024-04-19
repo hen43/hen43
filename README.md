@@ -4,7 +4,7 @@ I'm a beginner programmer but I'm always learning more.
   -HTML
   -CSS
   -Javascript
-  -React
+  -React / Native
   -Python
 
 **Things I'm trying to learn:**
